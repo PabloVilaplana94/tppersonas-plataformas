@@ -1,0 +1,7 @@
+ar\edu\davinci\example\Application.class
+ar\edu\davinci\example\repository\PersonaRepository.class
+ar\edu\davinci\example\service\PersonaService.class
+ar\edu\davinci\example\service\PersonaServiceImpl.class
+ar\edu\davinci\example\controller\Persona2Controller.class
+ar\edu\davinci\example\domain\Persona.class
+ar\edu\davinci\example\exception\NotFoundException.class
